@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="UndoBase" width="48" height="48" />
+  <img src="logo.png" alt="UndoBase"/>
 </p>
 
 <h3 align="center">UndoBase</h3>
